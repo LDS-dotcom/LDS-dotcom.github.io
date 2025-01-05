@@ -106,7 +106,7 @@ Where is the data coming from? The data is sourced from Kaggle, [clique aqui](ht
 
 # Desing
 
-- What should the dashboard contain based on the requirements provided?
+What should the dashboard contain based on the requirements provided?
 
 
 To understand what it should contain, I need to figure out what questions the dashboard needs to answer:

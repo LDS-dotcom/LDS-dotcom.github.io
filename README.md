@@ -16,7 +16,7 @@
 - [Objective](#objective)
 - [Data Source](#data-source)
 - [Stages](#stages)
-- [Desing](#desing)
+- [Design](#design)
   - [Tools](#tools)
   - [Dashboard Mockup](#dashboard-mockup)
 - [Development](#development)
@@ -104,7 +104,7 @@ Where is the data coming from? The data is sourced from Kaggle, [clique aqui](ht
 
 
 
-# Desing
+# Design
 
 What should the dashboard contain based on the requirements provided?
 
